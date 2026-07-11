@@ -6,8 +6,8 @@ Apple Discussions
 Archive.org
 Bandcamp
 BreachSta.rs Forum
-Carbonmade
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -18,7 +18,6 @@ Hubski
 LessWrong
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -29,6 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -38,6 +38,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
