@@ -1,11 +1,9 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BitBucket
 BreachSta.rs Forum
 Codolio
 DeviantArt
@@ -18,10 +16,8 @@ Houzz
 Hubski
 LessWrong
 Odysee
-OurDJTalk
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -45,4 +41,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
