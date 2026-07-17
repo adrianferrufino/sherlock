@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 BreachSta.rs Forum
+Carrd
 Codolio
 DeviantArt
 Discord.bio
@@ -13,9 +14,9 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
-Houzz
 Hubski
 LessWrong
+Lobsters
 Minecraft
 Odysee
 PCGamer
@@ -44,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
