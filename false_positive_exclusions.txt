@@ -1,7 +1,9 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
@@ -17,6 +19,7 @@ Minecraft
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -40,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
