@@ -8,7 +8,6 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -16,6 +15,7 @@ Hubski
 LessWrong
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
