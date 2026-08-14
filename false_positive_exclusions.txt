@@ -15,17 +15,16 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+GitHub
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
-Pychess
 Rarible
 Realmeye
 Reddit
@@ -50,3 +49,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
