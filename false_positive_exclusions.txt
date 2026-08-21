@@ -16,7 +16,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
 Odysee
 PCGamer
 Rarible
