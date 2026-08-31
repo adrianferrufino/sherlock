@@ -17,6 +17,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
+Minecraft
 Odysee
 PCGamer
 Rarible
