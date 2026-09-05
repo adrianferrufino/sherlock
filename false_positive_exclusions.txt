@@ -4,12 +4,12 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -19,8 +19,8 @@ Hubski
 Instapaper
 Minecraft
 ObservableHQ
+Odysee
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -30,7 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -45,4 +44,5 @@ interpals
 mercadolivre
 opennet
 phpRU
+social.tchncs.de
 svidbook
