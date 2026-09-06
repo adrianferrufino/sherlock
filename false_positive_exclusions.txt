@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -21,6 +20,7 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -30,6 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
