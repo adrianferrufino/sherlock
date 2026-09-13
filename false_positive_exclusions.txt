@@ -9,12 +9,12 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
-ColourLovers
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Houzz
 Hubski
@@ -49,4 +49,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
