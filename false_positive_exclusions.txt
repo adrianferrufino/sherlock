@@ -5,6 +5,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -28,13 +30,11 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -51,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
