@@ -19,6 +19,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 Minecraft
 ObservableHQ
@@ -34,16 +35,14 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
-Velomania
 Vero
-Weblate
 YandexMusic
 authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 mercadolivre
 opennet
