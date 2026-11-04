@@ -1,6 +1,7 @@
 APClips
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
 Championat
 Chatujme.cz
@@ -26,6 +27,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
