@@ -9,11 +9,13 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+Gumroad
 HackerNews
 Hashnode
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -27,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -35,7 +38,6 @@ authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 mercadolivre
 opennet
